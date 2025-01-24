@@ -45,9 +45,9 @@
 	},
 	"binary": {
 		"module_name": "opus",
-		"module_path": "./prebuild/{node_abi}-napi-v{napi_build_version}-{platform}-{arch}-{libc}-{libc_version}/",
-		"remote_path": "v111",
-		"package_name": "{module_name}-v111-{node_abi}-napi-v{napi_build_version}-{platform}-{arch}-{libc}-{libc_version}.tar.gz",
+  		"module_path": "./prebuild/node-v111-napi-v3-win32-x64-unknown-unknown/",
+  		"remote_path": "v0.9.0",
+  		"package_name": "opus-v0.9.0-node-v111-napi-v3-win32-x64-unknown-unknown.tar.gz",
 		"host": "https://github.com/discordjs/opus/releases/download/",
 		"napi_versions": [
 			3
